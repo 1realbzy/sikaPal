@@ -1,3 +1,8 @@
+sikaPal - Personal Finance Assistant for Africa
+🔵 Version 0.1.0 | 🟢 MIT License | 🟣 Python | 🟡 Twi Support
+
+A data-driven personal finance assistant for African markets
+
 📊 Introduction
 sikaPal (from Akan word "sika" meaning money) is an intelligent, privacy-focused personal finance platform designed specifically for Africans and emerging market users. It enables financial literacy through smart expense tracking, behavioral insights, and goal-driven recommendations.
 
